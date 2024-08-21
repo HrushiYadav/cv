@@ -55,6 +55,7 @@ export const RESUME_DATA = {
     },
     {
       company: "SAFEHOUSE TECH",
+      link:"",
       badges: ["Remote"],
       title: "Intern",
       start: "06-2021",
@@ -63,6 +64,7 @@ export const RESUME_DATA = {
     },
     {
       company: "FreeLance Self Employed",
+      link:"",
       badges: ["Remote"],
       title: "MERN Fullstack Developer",
       start: "10-2020",
