@@ -59,7 +59,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Intern",
       start: "06-2021",
-      end: "06-2021",
+      end: "07-2021",
       description: `Engaged in cybersecurity concepts, including loophole identification and issue reporting, with opportunities to converse with Gurgaon CyberCell.`,
     },
     {
